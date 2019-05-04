@@ -1,5 +1,5 @@
 # noteit
-Angular + Spring Boot Application to take notes
+Spring Boot Application to take notes
 
 
 
